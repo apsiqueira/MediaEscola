@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaEscolar</string>
+    <string name="action_sair">Sair</string>
+    <string name="TituloApp">Média Escolar</string>
+    <string name="subTitulo">1º Bimestre</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tituloMateria">Matéria</string>
+</resources>
